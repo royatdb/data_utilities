@@ -16,7 +16,7 @@ from aug_util import *
 from process_wv import *
 
 
-image_folder = "/Users/debajyotiroy/Downloads/train_images/"
+image_folder = "/Users/debajyotiroy/Downloads/xview_union_images/"
 json_filepath = "/Users/debajyotiroy/Downloads/xView_train.geojson"
 test_percent=0.0
 suffix="db"
